@@ -18,7 +18,7 @@ Archivos personales de configuración para Bspwm, Polybar, etc. [**INCOMPLETO**]
 #### Descripción:
 ##### A fast and easy-to-use status bar.
 
-[settarget](/settarget.md)
++ [settarget](/settarget.md)
 
 ## [zsh](https://zsh.sourceforge.io/)
 #### Descripción:
