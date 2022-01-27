@@ -69,8 +69,10 @@ Para que finalmente aparezca, sólo queda retocar el archivo **`launch.sh`** exi
  
 > polybar micomponente -c ~/.config/polybar/current.ini &
  
-Donde 'micomponente' debe coincidir con el nombre definido en el bar creado en el archivo 'current.ini' (es decir, en la línea donde definimos '[bar/micomponente]').
+Donde **`micomponente`** debe coincidir con el nombre definido en el bar creado en el archivo **`current.ini`** (es decir, en la línea donde definimos **`[bar/micomponente]`**).
  
 ¡Y listo!, de esta forma, tendrás tu nuevo módulo configurado.
 Cabe decir que igual a nivel de proporciones tengas que aplicar algunos ajustes, porque tal vez las proporciones que yo tenga no son las mismas que las tuyas.
 En ese caso, es simplemente ir ajustando hasta tener el módulo de la polybar en la posición deseada.
+
+Autor original: [s4vitar](https://s4vitar.github.io/) ([enlace al pastebin original](https://pastebin.com/FABzmBP9))
