@@ -1,6 +1,6 @@
 # config-bspwm
 
-Archivos personales de configuración para Bspwm, Polybar, etc. [**INCOMPLETO**]
+Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [**INCOMPLETO**]
 
 ## [bspwm](https://github.com/baskerville/bspwm)
 #### Descripción:
