@@ -1,4 +1,4 @@
-# config-bspwm
+# bspwm-dotfiles
 
 Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [**INCOMPLETO**]
 
@@ -9,6 +9,8 @@ Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [*
 ## [sxhkd](https://github.com/baskerville/sxhkd)
 #### Descripción:
 ##### Simple X hotkey daemon
+
++ [Shortcuts](/Shortcuts.md)
 
 ## [picom](https://github.com/yshui/picom)
 #### Descripción:
