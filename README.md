@@ -2,6 +2,8 @@
 
 Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [**INCOMPLETO**]
 
++ [Shell Hotkeys](/Shell_hotkeys.md)
+
 ## [bspwm](https://github.com/baskerville/bspwm)
 #### Descripción:
 ##### A tiling window manager based on binary space partitioning.
@@ -10,7 +12,7 @@ Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [*
 #### Descripción:
 ##### Simple X hotkey daemon
 
-+ [Shortcuts](/Shortcuts.md)
++ [Sxhkd Hotkeys](/Sxhkd_hotkeys.md)
 
 ## [picom](https://github.com/yshui/picom)
 #### Descripción:
