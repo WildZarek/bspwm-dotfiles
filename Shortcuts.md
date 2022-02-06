@@ -22,6 +22,10 @@
 ```
     WIN + CTRL + ALT + ← ↑ → ↓
 ```
+###### Preselect size
+```
+    WIN + CTRL + (1,9)
+```
 ###### Cancel preselected position
 ```
     WIN + CTRL + SPACE
@@ -65,6 +69,10 @@
 ###### Open Tmux
 ```
     WIN + ALT + T
+```
+###### Open Flameshot
+```
+    WIN + ALT + S
 ```
 ###### Open WireShark
 ```
