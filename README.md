@@ -2,7 +2,9 @@
 
 Archivos personales de configuración para Bspwm, Sxhkd, Picom, Polybar, etc. [**INCOMPLETO**]
 
+## System Hotkeys
 + [Shell Hotkeys](/Shell_hotkeys.md)
++ [Tmux Hotkeys](/Tmux_hotkeys.md)
 
 ## [bspwm](https://github.com/baskerville/bspwm)
 #### Descripción:
